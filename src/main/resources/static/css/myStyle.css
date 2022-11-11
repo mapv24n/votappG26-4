@@ -1,0 +1,40 @@
+body{
+	width: 90%;
+	margin: 15px auto;
+	padding: 15px auto;
+}
+
+h1{
+	text-align: center;
+	color:darkblue;
+}
+
+p{
+	text-align: justify;
+}
+
+.imgStyle{
+	display:block;
+	margin: auto;
+	width:250px;
+	height: 150px;
+}
+
+#opciones, li{
+	display:inline-block;
+}
+
+#menu{
+	text-align: center;
+	border-color:cornflowerblue;
+	border-style: solid;
+	width: 90% auto;
+	height: 35px;
+}
+
+#izq{
+	width:60%;
+	margin: 15px auto;
+	padding: 15px auto;
+	float: left;
+}
